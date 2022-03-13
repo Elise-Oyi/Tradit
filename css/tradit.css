@@ -45,6 +45,8 @@
   margin: 0 10px;
   font-size: 15px;
   color: rgb(32, 31, 31);
+  white-space: nowrap;
+  text-overflow: clip;
 }
 
 .nav-links button {
